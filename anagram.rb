@@ -7,6 +7,6 @@ def anagram_check(arr)
     word.chars.sort.join
   end
 end
-puts anagram_check(a) == anagram_check(b)
-puts anagram_check(a) == anagram_check(c)
+# anagram_check(a) == anagram_check(b)
+
 

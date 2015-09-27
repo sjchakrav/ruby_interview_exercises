@@ -1,1 +1,1 @@
-# ruby_interview_exercises-
+Interview practice.
